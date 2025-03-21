@@ -6,8 +6,8 @@ API desenvolvida em **Flask** e **SQLite** para cadastrar e listar livros como p
 
 ## ⚙️ Funcionalidades
 
-- **POST `/doar`** → Cadastra um livro no banco de dados.
-- **GET `/livros`** → Lista todos os livros cadastrados.
+- **POST `/donate`** → Cadastra um livro no banco de dados.
+- **GET `/books`** → Lista todos os livros cadastrados.
 - **GET `/`** → Página inicial com mensagem personalizada.
 
 ## 🏗️ Tecnologias
